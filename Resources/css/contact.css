@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(192, 185, 185);
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    width: auto;
+    height: 50px;
+    border: 100px;
+    border-radius: 10px;
+    background-color: rgb(14, 13, 13);
+    text-align: right;
+    padding-top: 10px;
+    padding: 1px;
+}
+
+.logo {
+    position: sticky;
+    float: left;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+nav ul li a:hover {
+    color: rgb(101, 70, 158);
+}
+
+.home {
+    color: white;
+}
+
+.about {
+    color: white;
+}
+
+.contact {
+    color: white;
+}
+
+.gallery {
+    color: white;
+}
+
+.login {
+    color: white;
+}
+
+.align {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
